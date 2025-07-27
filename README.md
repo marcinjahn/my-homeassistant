@@ -2,7 +2,7 @@
 
 ## RPI 4
 
-## Disable USB Autosuspend
+### Disable USB Autosuspend
 
 <https://www.zigbee2mqtt.io/guide/faq/#zigbee2mqtt-crashes-after-some-time>
 
